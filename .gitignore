@@ -1,6 +1,9 @@
 # dependencies
 node_modules
 
+# ide project folder
+.idea
+
 # logs
 npm-debug.log
 
